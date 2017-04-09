@@ -11,7 +11,7 @@ public class HelloWorldDemo {
 		for(char each : charray){
 			System.out.println(each);
 		}
-		String test = "hello world";
+		String test1 = "hello world";
 		
 	}
 
